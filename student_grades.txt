@@ -1,0 +1,2 @@
+name|id|test1|test2|test3|average|grade
+Laney Lancey|1234|98.0|95.0|100.0|97.66666666666667|A
